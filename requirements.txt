@@ -1,0 +1,3 @@
+tkinter (built-in for Python)
+scapy
+requests
